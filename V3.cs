@@ -8,5 +8,6 @@ namespace _123
 {
     internal class V3
     {
+        private string MaNV {  get; set; }
     }
 }
